@@ -17,15 +17,8 @@ Ideal pra quem estuda, trabalha, cria ou simplesmente precisa organizar o caos c
 
 ---
 
-## 📱 Telas do App
-
-### Splash Page/Screen
-![Splash Page](Frames/splash%20page.png)
-
-### Tela Inicial
-![Tela Inicial](Frames/inicio.png)
-
-👀 Quer ver mais? O protótipo completo tá no Figma:  
+## 📱Quer ver mais? O protótipo completo tá no Figma: 
+ 
 🌌 [Protótipo Clokito no Figma](https://www.figma.com/design/X72MSa9kY645oB5XWa54Vh/Clokito?node-id=0-1&t=YvkE7FXxnx05UMcJ-1)
 
 ---
