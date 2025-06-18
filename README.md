@@ -17,9 +17,10 @@ Ideal pra quem estuda, trabalha, cria ou simplesmente precisa organizar o caos c
 
 ---
 
-## 📱Quer ver mais? O protótipo completo tá no Figma: 
+## 📱Quer ver mais? O protótipo completo está no Figma: 
  
 🌌 [Protótipo Clokito no Figma](https://www.figma.com/design/X72MSa9kY645oB5XWa54Vh/Clokito?node-id=0-1&t=YvkE7FXxnx05UMcJ-1)
+
 
 ---
 
@@ -27,7 +28,7 @@ Ideal pra quem estuda, trabalha, cria ou simplesmente precisa organizar o caos c
 
 - **Kotlin**
 - **Android Studio**
-- **Material Design (com um toque Sutherland de charme)**
+- **Material Design**
 
 ---
 
