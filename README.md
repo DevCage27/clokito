@@ -26,7 +26,7 @@ Ideal pra quem estuda, trabalha, cria ou simplesmente precisa organizar o caos c
 
 - **Kotlin**
 - **Android Studio**
-- **Material Design (com um toque Sutherland de charme)**
+- **Material Design**
 
 ---
 
